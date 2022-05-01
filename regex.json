@@ -81,5 +81,6 @@
         "hypixelLevelUp": "You are now Hypixel Level (?<level>\\\\d+)!"
     },
     "balls": "piss",
-    "a": "b"
+    "a": "b",
+    "all": "cheese"
 }
